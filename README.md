@@ -1,4 +1,4 @@
-# jQuery – Ejercicio
+# jQuery – Ejercicio (en /jQuery)
 • Crea una página principal de una web con el contenido que sea
 • Añade un botón para que se registre el usuario:
     – Que oculte el contenido del container principal
